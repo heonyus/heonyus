@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-- 🧠 AI Researcher & MLOps Engineer at [Lingora AI Innovation Team](https://lingora.co/)
-- 🎓 Industrial Management Engineering graduate from Myongji University (Summa Cum Laude)
-- 🔬 Former Undergraduate Researcher at Computational Data Science Lab, Myongji University
+- 🧠 AI Researcher & MLOps Engineer at [Lingora AI Innovation Team](https://lingora.ai/)
+- 🎓 Industrial Management Engineering graduate from Myongji University (**Summa Cum Laude**)
+- 🔬 Former Undergraduate Researcher at [Computational Data Science Lab](http://datasciencelab.kr/), Myongji University
 - 🌟 Founder and President of Data Science Club 'FoM'
-- 💼 Ex-AI Researcher and Prompt Engineer at Market Designers
+- 💼 Ex-AI Researcher and Prompt Engineer at [Market Designers](https://marketdesigners.com/)
 
 ### 📊 About Me
 
