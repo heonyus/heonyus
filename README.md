@@ -25,7 +25,7 @@
 - 🪖 Military Service: 2020.04 - 2021.10 (Auxiliary Policeman, Seoul Metropolitan Police Agency, 3rd Mobile Unit)
 
 ### 🎓 Education
-- 2024.08: MJU, Graduated Summa Cum Laude in Industrial Management Engineering
+- 2024.08: MJU, Graduated **Summa Cum Laude** in Industrial Management Engineering
 - 2022.03: MJU, Transferred to Industrial Management Engineering
 - 2019.02: DIMA, Withdrew from Acting Major
 - 2018.03: DIMA, Entered Acting Major
