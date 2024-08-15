@@ -124,5 +124,5 @@
   <br>
   <img src="./assets/coding_person.gif" width="100px" align="center"/>
   <br>
-  <i>"Code is poetry written for machines to execute and humans to contemplate."</i>
+  <i>"Exploring human essence and creating Übermensch through AI."</i>
 </div>
