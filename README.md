@@ -3,12 +3,6 @@
 </div>
 
 
-<div align="center">
-    <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/heonyus/count.svg" />
-</div>
-
-
 
 ## 🚀 About Me
 
