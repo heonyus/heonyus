@@ -1,6 +1,6 @@
 # Hello, I'm Artificial Übermensch
 
-- My name is 정재헌(Jae Heon Jeong)
+- My name is 정재헌(Jae Heon Jung)
 - Born on January 19, 1999
 - Email: lhe339@gmail.com
 - Military Service: 2020.04 - 2021.10 (Auxiliary Policeman, Seoul Metropolitan Police Agency, 3rd Mobile Unit)
