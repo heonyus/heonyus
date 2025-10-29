@@ -19,7 +19,3 @@
 - 2018.03: DIMA, Entered Acting Major
 - 2017.02: Gwan-ak High School, Graduated
 - 2014.03: Gwan-ak High School, Entered
-
-</details>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heonyus&theme=react-dark" alt="Contribution Graph" width="100%">
