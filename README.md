@@ -22,10 +22,4 @@
 
 </details>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heonyus&theme=radical" alt="heonyus's streak" />
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heonyus&theme=react-dark" alt="Contribution Graph" width="100%">
