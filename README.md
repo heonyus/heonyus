@@ -1,4 +1,4 @@
-# Hello, I'm Artificial Übermensch
+# Hello, I wanna make Artificial Übermensch
 
 - My name is 정재헌(Jae Heon Jung)
 - Born on January 19, 1999
