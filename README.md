@@ -7,7 +7,7 @@
 
 ## About Me
 
-- (Present)AI Engineer at [Fingoo](https://fingoo.vercel.app/)
+- (Present)AI Research Intern at [TAIL LAB](https://tail.korea.ac.kr/)
 - (Ex)AI Researcher and & MLOps Engineer at [Market Designers](https://marketdesigners.com/)
 - (Ex)Former Undergraduate Researcher at [Computational Data Science Lab](http://datasciencelab.kr/), Myongji University
 - (Ex)Founder and President of Data Science Club 'FoM'
