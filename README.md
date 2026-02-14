@@ -16,4 +16,4 @@
 - 2024.08: MJU, Graduated **Summa Cum Laude** in Industrial Management Engineering
 - 2022.03: MJU, Transferred to Industrial Management Engineering
 - 2019.02: DIMA, Withdrew from Acting Major
-- 2017.02: Gwan-ak High School, Graduated
+- 2017.02: Gwan-ak High School, Graduated 
