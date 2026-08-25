@@ -7,7 +7,8 @@
 
 ## About Me
 
-- (Present)AI Research Intern at [TAIL LAB](https://tail.korea.ac.kr/), Korea University
+- (Present)AI Research Intern at [DAHS LAB](https://dahs.korea.ac.kr/), Korea University
+- (Ex)AI Research Intern at [TAIL LAB](https://tail.korea.ac.kr/), Korea University
 - (Ex)AI Researcher and & MLOps Engineer at [Market Designers](https://marketdesigners.com/)
 - (Ex)AI Research Intern at [Computational Data Science Lab](http://datasciencelab.kr/), Myongji University
 - (Ex)Founder and President of Data Science Club 'FoM', Myongji University
